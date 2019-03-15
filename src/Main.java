@@ -5,4 +5,7 @@ public class Main {
         System.out.println("Initialization");
     }
 
+    public void method_1(){
+        System.out.println("First feature.");
+    }
 }
