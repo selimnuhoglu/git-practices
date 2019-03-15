@@ -8,4 +8,8 @@ public class Main {
     public void method_1(){
         System.out.println("First feature.");
     }
+
+    public void method_2(){
+        System.out.println("Second feature. Created in first branch.");
+    }
 }
