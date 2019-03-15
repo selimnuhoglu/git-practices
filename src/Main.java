@@ -16,4 +16,8 @@ public class Main {
     public void method_3(){
         System.out.println("Third feature. Created in second branch.");
     }
+
+    public void method_4() {
+        System.out.println("Fourth feature on branch#2");
+    }
 }
