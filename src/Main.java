@@ -10,6 +10,7 @@ public class Main {
     }
 
     public void method_2(){
+
         System.out.println("Second feature. Created in first branch.");
     }
 
@@ -18,6 +19,11 @@ public class Main {
     }
 
     public void method_4() {
+
         System.out.println("Fourth feature on branch#1.");
+    }
+
+    public void method_5(){
+        System.out.println("Fifth feature on branch#1");
     }
 }
