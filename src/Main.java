@@ -22,8 +22,4 @@ public class Main {
 
         System.out.println("Fourth feature on branch#1.");
     }
-
-    public void method_5(){
-        System.out.println("Fifth feature on branch#1");
-    }
 }
